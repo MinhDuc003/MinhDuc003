@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Duc</h1>
-<h3 align="center">A passionate Data Science Developer from Vietnam can analysis data and implement AI/ML models</h3>
+<h3 align="center">A passionate Data Science Developer from Vietnam can analyze data and implement AI/ML models</h3>
 
 - 📫 How to reach me: **huynhminhduc218@gmail.com**
 
