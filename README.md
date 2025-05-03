@@ -2,7 +2,7 @@
 <h3 align="center">A motivated AI Intern from Vietnam who is eager to apply data analysis skills and contribute to real-world AI/ML projects.</h3>
 
 - 📫 How to reach me: **huynhminhduc218@gmail.com**
-
+- [📝MyCV](https://drive.google.com/file/d/1vfrx5B5RQflmzocOLwxYiY_fSnce8roo/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
